@@ -1,4 +1,4 @@
-# hypergpt
+# hyperGPT
 
 Documentação de referência para o bot hyperGPT, desenvolvido com a tecnologia do ChatGPT.
 
