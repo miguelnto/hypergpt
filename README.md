@@ -15,7 +15,7 @@ Se você tem todos esses requisitos, por favor siga os seguintes passos **na ord
 - Use o comando `/activate` com a key. Se você digitou corretamente, o bot alertará que a key foi ativada com sucesso.
 - POR FAVOR LEIA MAIS INFORMAÇÕES SOBRE AS KEYS [ABAIXO](#keys)
 - Use o comando `/expires` para checar quando sua key vai expirar. Esse comando pode ser usado no futuro quantas vezes você quiser.
-- O BOT já está configurado e pode ser usado. Use o comando `/help` para conferir todos os comandos disponíveis ou leia as informações abaixo.
+- O BOT já está configurado e pode ser usado. Use o comando `/help` para conferir todos os comandos disponíveis ou leia os comandos [abaixo](#comandos).
 
 ## Keys
 
@@ -25,3 +25,26 @@ Keys são usadas para a ativação da aplicação. Confira a seguir informação
 - Uma key funciona só uma vez. Se você tentar usar uma key usada, você vai receber uma mensagem de erro.
 - O horário da expiração da key é de acordo com o horário de brasília. Se sua key expira em `22/12/2031`, e são `00:01` do dia `22/12/2031` no horário de brasília, sua key já expirou.
 - Nenhum comando ou interação com o bot será possível se o seu servidor não estiver ativado com a key.
+
+## Comandos
+
+#### `/chat` - Converse com a IA.
+
+- **prompt** - Pode ser qualquer mensagem de texto, incluindo perguntas ou afirmações.
+
+#### `/imagine` - Gera uma imagem baseada no prompt.
+
+- **model** - Modelo para usar. Pode ser `prodia` ou `pollinations`.
+- **prompt** - Prompt que será usado para gerar a imagem.
+
+#### `/addchannel` - Adiciona um canal pelo ID para o bot responder no modo restrito.
+
+- **canal** - ID do canal. Caso não seja passado, o canal onde este comando foi usado será aplicado.
+
+#### `/deletechannel` - Delete um canal pelo ID da lista para o bot responder no modo restrito.
+
+- **canal** - ID do canal. Caso não seja passado, o canal onde este comando foi usado será aplicado.
+
+#### `/listchannels` - Lista todos os canais adicionados ao modo restrito.
+
+#### `/restrict` - Ativa ou desativa o modo restrito do bot.
