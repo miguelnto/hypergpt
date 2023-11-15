@@ -48,3 +48,8 @@ Keys são usadas para a ativação da aplicação. Confira a seguir informação
 #### `/listchannels` - Lista todos os canais adicionados ao modo restrito.
 
 #### `/restrict` - Ativa ou desativa o modo restrito do bot.
+
+## Contato
+
+- Email: miguelup01@outlook.com
+- Servidor: [HyperStore](https://discord.gg/M7FURN5R88)
