@@ -28,7 +28,7 @@ Keys são usadas para a ativação da aplicação. Confira a seguir informação
 
 ## Comandos
 
-Esse BOT foi criado com foco em uso da inteligência artificial, e comandos para gerar imagens e respostas estão disponíveis. Além disso, existe um "modo restrito" no BOT, que permite que você restrinja os canais em que o bot pode ser usado. Por exemplo, você pode criar um canal chamado `#gpt-comandos`, e então adicionar esse canal para a lista restrita com o comando `/addchannel`, e depois acionar o modo restrito com o comando `/restrict`.
+Esse BOT foi criado com foco em uso da inteligência artificial para criar interatividade, e comandos para gerar imagens e respostas estão disponíveis. Além disso, existe um "modo restrito" no BOT, que permite que você restrinja os canais em que o bot pode ser usado. Por exemplo, você pode criar um canal chamado `#gpt-comandos`, e então adicionar esse canal para a lista restrita com o comando `/addchannel`, e depois acionar o modo restrito com o comando `/restrict`.
 
 #### `/chat` - Converse com a IA.
 
