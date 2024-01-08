@@ -28,9 +28,10 @@ Keys são usadas para a ativação da aplicação. Confira a seguir informação
 
 ## Comandos
 
+🚩 **ATENÇÃO!**
 Nesta documentação, os comandos são referenciados da seguinte forma:
 
-#### **/comando** - `parâmetro_1`, `parâmetro_2`, ...
+#### ⚙️ **/comando** - `parâmetro_1`, `parâmetro_2`, ...
 Descrição do comando.
 
 - `parâmetro_1` - Significado do parâmetro...
@@ -42,7 +43,9 @@ Um exemplo de como usar o comando.
 
 Esse BOT foi criado com foco em uso da inteligência artificial para criar interatividade, e comandos para gerar imagens e respostas estão disponíveis. Além disso, existe um "modo restrito" no BOT, que permite que você restrinja os canais em que o bot pode ser usado. Por exemplo, você pode criar um canal chamado `#gpt-comandos`, e então adicionar esse canal para a lista restrita com o comando `/addchannel`, e depois acionar o modo restrito com o comando `/restrict`.
 
-#### /chat* - `prompt` 
+---
+
+#### ⚙️ /chat* - `prompt` 
 Converse com a IA.
 
 - `prompt` - Pode ser qualquer mensagem de texto, incluindo perguntas ou afirmações.
@@ -50,6 +53,8 @@ Converse com a IA.
 Exemplo:
 Uma pergunta aleatória de matemática.
 `/chat quanto é 720*8?`
+
+---
 
 #### `/imagine` - Gera uma imagem baseada no prompt.
 
