@@ -29,6 +29,7 @@ Keys são usadas para a ativação da aplicação. Confira a seguir informação
 ## Comandos
 
 🚩 **ATENÇÃO!**
+
 Nesta documentação, os comandos são referenciados da seguinte forma:
 
 #### ⚙️ **/comando** - `parâmetro_1`, `parâmetro_2`, ...
@@ -52,14 +53,22 @@ Converse com a IA.
 
 Exemplo:
 Uma pergunta aleatória de matemática.
-`/chat quanto é 720*8?`
+`/chat [quanto é 720*8?]`
 
 ---
 
-#### `/imagine` - Gera uma imagem baseada no prompt.
+#### ⚙️ `/imagine` - `model`, `prompt`
+Gera uma imagem baseada no prompt usando IA.
 
-- **model** - Modelo para usar. Pode ser `prodia` ou `pollinations`.
+- **model** - Modelo para usar. Pode ser *prodia* ou *pollinations*.
 - **prompt** - Prompt que será usado para gerar a imagem.
+
+Exemplo:
+Gera uma imagem de uma elfa de cabelo verde na cidade. *Detalhe: o prompt não precisa estar em inglês, mas prompts em inglês geram imagens mais detalhadas.*
+`/imagine [prodia] [green haired elf in the city]`
+![Elfa de cabelo verde na cidade.](elf.png)
+
+---
 
 #### `/addchannel` - Adiciona um canal pelo ID para o bot responder no modo restrito.
 
