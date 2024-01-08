@@ -69,6 +69,7 @@ Gera uma imagem de uma elfa de cabelo verde na cidade.
 *Detalhe: o prompt não precisa estar em inglês, mas prompts em inglês geram imagens mais detalhadas.*
 
 `/imagine [prodia] [green haired elf in the city]`
+
 ![Elfa de cabelo verde na cidade.](elf.png)
 
 ---
