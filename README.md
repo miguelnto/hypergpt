@@ -46,7 +46,7 @@ Esse BOT foi criado com foco em uso da inteligência artificial para criar inter
 
 ---
 
-#### ⚙️ /chat* - `prompt` 
+#### ⚙️ /chat - `prompt` 
 Converse com a IA.
 
 - `prompt` - Pode ser qualquer mensagem de texto, incluindo perguntas ou afirmações.
@@ -57,7 +57,7 @@ Uma pergunta aleatória de matemática.
 
 ---
 
-#### ⚙️ `/imagine` - `model`, `prompt`
+#### ⚙️ /imagine - `model`, `prompt`
 Gera uma imagem baseada no prompt usando IA.
 
 - **model** - Modelo para usar. Pode ser *prodia* ou *pollinations*.
