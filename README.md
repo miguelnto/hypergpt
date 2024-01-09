@@ -125,14 +125,14 @@ Delete um canal da lista para o bot responder no modo restrito.
 
 ---
 
-#### `/listchannels` 
+#### ⚙️ `/listchannels` 
 Lista todos os canais da lista do modo restrito.
 
 Esse comando não tem parâmetros.
 
 ---
 
-#### `/restrict`
+#### ⚙️ `/restrict`
 Ativa ou desativa o modo restrito do bot.
 
 Esse comando não tem parâmetros.
