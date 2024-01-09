@@ -4,7 +4,7 @@
 
 Esse BOT foi criado com foco em uso da inteligência artificial para criar interatividade e diversão para seu servidor!
 
-As principais funcionialidades estão disponíveis:
+As seguintes funcionialidades estão disponíveis:
 
 - 🤖 - *Gerar respostas em texto com IA.*
 - 🖼️ - *Gerar imagens com IA.*
