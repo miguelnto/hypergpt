@@ -21,7 +21,7 @@ Se você tem todos esses requisitos, por favor siga os seguintes passos **na ord
 
 - Convide o BOT para seu servidor usano o link de convite.
 - Use o comando `/activate` com a key. Se você digitou corretamente, o bot alertará que a key foi ativada com sucesso.
-- Por favor leia mais informações sobre a key [abaixo](#keys)
+- Por favor leia mais informações sobre a key [abaixo](#keys).
 - Use o comando `/expires` para checar quando sua key vai expirar. Esse comando pode ser usado no futuro quantas vezes você quiser.
 - O BOT já está configurado e pode ser usado. Confira todos os comandos disponíveis na seção [comandos](#comandos).
 
