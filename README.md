@@ -139,3 +139,4 @@ Ativa ou desativa o modo restrito do bot.
 
 - Email: miguelup01@outlook.com
 - Servidor: [HyperStore](https://discord.gg/M7FURN5R88)
+- Discord: miguelnto
