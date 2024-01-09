@@ -5,9 +5,9 @@ Documentação de referência para o bot hyperGPT, desenvolvido com a tecnologia
 Esse BOT foi criado com foco em uso da inteligência artificial para criar interatividade e diversão para seu servidor!
 As principais funcionialidades estão disponíveis:
 
-- 🤖 **Gerar respostas em texto com IA.**
-- 🖼️ **Gerar imagens com IA.**
-- 🕹️ **Limitar canais onde usar o BOT com o "modo restrito".**
+- 🤖 *Gerar respostas em texto com IA.*
+- 🖼️ *Gerar imagens com IA.*
+- 🕹️ *Limitar canais onde usar o BOT com o "modo restrito".*
 
 ## Configuração inicial e como usar
 
