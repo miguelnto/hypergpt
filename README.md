@@ -96,8 +96,8 @@ Uma pergunta aleatória de matemática.
 #### ⚙️ /imagine - `model`, `prompt`
 Gera uma imagem baseada no prompt usando IA.
 
-- **model** - Modelo para usar. Pode ser *prodia* ou *pollinations*.
-- **prompt** - Prompt que será usado para gerar a imagem.
+- `model` - Modelo para usar. Pode ser *prodia* ou *pollinations*.
+- `prompt` - Prompt que será usado para gerar a imagem.
 
 Exemplo:
 
@@ -114,14 +114,14 @@ Gera uma imagem de uma elfa de cabelo verde na cidade.
 #### ⚙️ /addchannel - `canal`
 Adiciona um canal para a lista do modo restrito do BOT.
 
-- **canal** - O canal onde esse comando será aplicado. Uma pequena lista de canais irá aparecer e você deverá selecionar o canal.
+- `canal` - O canal onde esse comando será aplicado. Uma pequena lista de canais irá aparecer e você deverá selecionar o canal.
 
 ---
 
 #### ⚙️ /deletechannel - `canal`
 Delete um canal da lista para o bot responder no modo restrito.
 
-- **canal** - O canal onde esse comando será aplicado. Uma pequena lista de canais irá aparecer e você deverá selecionar o canal.
+- `canal` - O canal onde esse comando será aplicado. Uma pequena lista de canais irá aparecer e você deverá selecionar o canal.
 
 ---
 
