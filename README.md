@@ -74,6 +74,7 @@ Um exemplo de como usar o comando.
 `/comando parametro_1 parametro_2`
 
 🚩 **ATENÇÃO!**
+
 Existe um "modo restrito" no BOT, que permite que você restrinja os canais em que o bot pode ser usado. Por exemplo, você pode criar um canal chamado `#gpt-comandos`, e então adicionar esse canal para a lista restrita com o comando `/addchannel`, e depois acionar ou desacionar o modo restrito com o comando `/restrict`.
 
 ## Comandos principais
@@ -109,17 +110,33 @@ Gera uma imagem de uma elfa de cabelo verde na cidade.
 
 ---
 
-#### `/addchannel` - Adiciona um canal pelo ID para o bot responder no modo restrito.
+#### ⚙️ /addchannel - `canal`
+Adiciona um canal para a lista do modo restrito do BOT.
 
-- **canal** - ID do canal. Caso não seja passado, o canal onde este comando foi usado será aplicado.
+- **canal** - O canal onde esse comando será aplicado. Uma pequena lista de canais irá aparecer e você deverá selecionar o canal.
 
-#### `/deletechannel` - Delete um canal pelo ID da lista para o bot responder no modo restrito.
+---
 
-- **canal** - ID do canal. Caso não seja passado, o canal onde este comando foi usado será aplicado.
+#### ⚙️ /deletechannel - `canal`
+Delete um canal da lista para o bot responder no modo restrito.
 
-#### `/listchannels` - Lista todos os canais adicionados ao modo restrito.
+- **canal** - O canal onde esse comando será aplicado. Uma pequena lista de canais irá aparecer e você deverá selecionar o canal.
 
-#### `/restrict` - Ativa ou desativa o modo restrito do bot.
+---
+
+#### `/listchannels` 
+Lista todos os canais da lista do modo restrito.
+
+Esse comando não tem parâmetros.
+
+---
+
+#### `/restrict`
+Ativa ou desativa o modo restrito do bot.
+
+Esse comando não tem parâmetros.
+
+---
 
 ## Contato
 
