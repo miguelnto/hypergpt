@@ -40,7 +40,7 @@ Keys são usadas para a ativação da aplicação. Confira a seguir informaçõe
 #### ⚙️ /activate - `key` 
 Ativa o bot com uma key.
 
-- `key` - A key que deve ser usado o bot seja ativado.
+- `key` - A key que deve ser usada o bot seja ativado.
 
 Exemplo:
 
