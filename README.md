@@ -137,7 +137,7 @@ Ativa ou desativa o modo restrito do bot.
 
 ## Contato
 
-**Esse BOT foi desenvolvido com carinho por Miguel (miguelnto), programador full stack e designer.**
+**Esse BOT foi desenvolvido com carinho por Miguel (@miguelnto), programador full stack e designer.**
 
 Todos os links de contato estão abaixo.
 
