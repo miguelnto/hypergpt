@@ -44,7 +44,7 @@ Ativa o bot com uma key.
 
 > Exemplo:
 
-`/activate [7Z8V-LIFO-2W5T]`
+`/activate "7Z8V-LIFO-2W5T"`
 
 ---
 
@@ -67,11 +67,11 @@ Descrição do comando.
 - `parâmetro_1` - Significado do parâmetro...
 - `parâmetro_2` - Significado do outro parâmetro...
 
-Exemplo:
+> Exemplo:
 
 Um exemplo de como usar o comando.
 
-`/comando parametro_1 parametro_2`
+`/comando "parametro_1" "parametro_2"`
 
 🚩 **ATENÇÃO!**
 
@@ -84,11 +84,11 @@ Converse com a IA.
 
 - `prompt` - Pode ser qualquer mensagem de texto, incluindo perguntas ou afirmações.
 
-Exemplo:
+> Exemplo:
 
 Uma pergunta aleatória de matemática.
 
-`/chat [quanto é 720*8?]`
+`/chat "quanto é 720*8?"`
 
 ---
 
@@ -98,39 +98,15 @@ Gera uma imagem baseada no prompt usando IA.
 - `model` - Modelo para usar. Pode ser *prodia* ou *pollinations*.
 - `prompt` - Prompt que será usado para gerar a imagem.
 
-Exemplo:
+> Exemplo:
 
-Gera uma imagem de uma elfa de cabelo verde na cidade. 
+Gerando uma imagem de uma elfa de cabelo verde na cidade. 
 
 *Detalhe: o prompt não precisa estar em inglês, mas prompts em inglês geram imagens mais detalhadas.*
 
-`/imagine [prodia] [green haired elf in the city]`
+`/imagine "prodia" "green haired elf in the city"`
 
 ![Elfa de cabelo verde na cidade.](elf.png)
-
----
-
-#### ⚙️ /addchannel - `canal`
-Adiciona um canal para a lista do modo restrito do BOT.
-
-- `canal` - O canal onde esse comando será aplicado. Uma pequena lista de canais irá aparecer e você deverá selecionar o canal.
-
----
-
-#### ⚙️ /deletechannel - `canal`
-Delete um canal da lista para o bot responder no modo restrito.
-
-- `canal` - O canal onde esse comando será aplicado. Uma pequena lista de canais irá aparecer e você deverá selecionar o canal.
-
----
-
-#### ⚙️ `/listchannels` 
-Lista todos os canais da lista do modo restrito.
-
----
-
-#### ⚙️ `/restrict`
-Ativa ou desativa o modo restrito do bot.
 
 ---
 
