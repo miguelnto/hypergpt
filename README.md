@@ -112,6 +112,6 @@ Gerando uma imagem de uma elfa de cabelo verde na cidade.
 
 Todos os links de contato estão abaixo.
 
-- Email: miguelup01@outlook.com
-- Servidor: [HyperStore](https://discord.gg/M7FURN5R88)
-- Discord: miguelnto
+- **Email: miguelup01@outlook.com**
+- **Servidor: [HyperStore](https://discord.gg/M7FURN5R88)**
+- **Discord: miguelnto**
