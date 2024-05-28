@@ -19,20 +19,19 @@ Requisitos:
 
 Se você tem todos esses requisitos, por favor siga os seguintes passos **na ordem:**
 
-- Convide o BOT para seu servidor usano o link de convite.
-- Use o comando `/activate` com a key. Se você digitou corretamente, o bot alertará que a key foi ativada com sucesso.
-- Por favor leia mais informações sobre a key [abaixo](#keys).
-- Use o comando `/expires` para checar quando sua key vai expirar. Esse comando pode ser usado no futuro quantas vezes você quiser.
-- O BOT já está configurado e pode ser usado. Confira todos os comandos disponíveis na seção [comandos](#comandos).
+1. Convide o BOT para seu servidor usando o link de convite.
+2. Use o comando `/activate` junto com sua key para ativar o BOT. Se você digitou corretamente, o BOT alertará que a key foi ativada com sucesso.
+3. Em caso de dúvidas, por favor leia mais informações sobre as keys na seção [abaixo](#keys).
+4. Use o comando `/expires` para checar quando sua key vai expirar. Esse comando pode ser usado a qualquer momento para te deixar informado.
+5. Pronto! O BOT já está configurado e pode ser usado. Confira todos os comandos disponíveis na seção [comandos](#comandos).
 
 ## Keys
 
 Keys são usadas para a ativação da aplicação. Confira a seguir informações essenciais sobre as keys:
 
-- Você deve usar apenas uma key e **uma vez** por mês. Se você tem 2 ou mais keys, aguarde até 1 ou 2 dias antes da data de expiração da key para usar uma nova. Se você usar uma key e em seguida usar outra, isso não extenderá o prazo de expiração.
-- Uma key funciona só uma vez. Se você tentar usar uma key usada, você vai receber uma mensagem de erro.
-- O horário da expiração da key é de acordo com o horário de brasília. Se sua key expira em `22/12/2031`, e são `00:01` do dia `22/12/2031` no horário de brasília, sua key já expirou.
-- Nenhum comando ou interação com o bot será possível se o seu servidor não estiver ativado com a key.
+- Você deve usar apenas uma key e **uma vez** por mês. Se você tem 2 ou mais keys, aguarde até 1 dia antes da data de expiração da key para usar uma nova. Se você usar uma key e em seguida usar outra, isso não extenderá o prazo de expiração.
+- Uma key funciona só uma vez. Se você tentar usar uma key usada, você vai receber uma mensagem alertando que a key não pôde ser usada para ativar o BOT.
+- Nenhum comando ou interação com o bot será possível se o BOT não estiver ativado com a key.
 
 ### Comandos com as keys
 
@@ -43,7 +42,7 @@ Ativa o bot com uma key.
 
 - `key` - A key que deve ser usada o bot seja ativado.
 
-Exemplo:
+> Exemplo:
 
 `/activate [7Z8V-LIFO-2W5T]`
 
