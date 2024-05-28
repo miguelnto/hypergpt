@@ -8,14 +8,14 @@ As seguintes funcionialidades estão disponíveis:
 
 - 🤖 - *Gerar respostas em texto com IA.*
 - 🖼️ - *Gerar imagens com IA.*
-- 🕹️ - *Limitar canais onde usar o BOT com o "modo restrito".*
+- 🧠 - *Limitar canais onde usar o BOT com o "modo restrito".*
 
 ## Configuração inicial e como usar
 
 Requisitos:
 
 - Uma *key* para ativar o bot.
-- O link de convite para o bot.
+- O *link* de convite para o bot.
 
 Se você tem todos esses requisitos, por favor siga os seguintes passos **na ordem:**
 
