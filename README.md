@@ -73,10 +73,6 @@ Um exemplo de como usar o comando.
 
 `/comando "parametro_1" "parametro_2"`
 
-🚩 **ATENÇÃO!**
-
-Existe um "modo restrito" no BOT, que permite que você restrinja os canais em que o bot pode ser usado. Por exemplo, você pode criar um canal chamado `#gpt-comandos`, e então adicionar esse canal para a lista restrita com o comando `/addchannel`, e depois acionar ou desacionar o modo restrito com o comando `/restrict`.
-
 ## Comandos principais
 
 #### ⚙️ /chat - `prompt` 
