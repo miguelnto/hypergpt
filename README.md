@@ -1,6 +1,6 @@
 # HyperGPT
 
-**Documentação de referência para o bot hyperGPT, desenvolvido com a tecnologia do ChatGPT.**
+**Documentação de referência para usuários do bot hyperGPT, desenvolvido com a tecnologia do ChatGPT.**
 
 Esse BOT foi criado com foco em uso da inteligência artificial para criar interatividade e diversão para seu servidor!
 
