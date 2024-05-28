@@ -8,7 +8,7 @@ As seguintes funcionialidades estão disponíveis:
 
 - 🤖 - *Gerar respostas em texto com IA.*
 - 🖼️ - *Gerar imagens com IA.*
-- 🧠 - *Limitar canais onde usar o BOT com o "modo restrito".*
+- 🧠 - *O limite é sua imaginação.*
 
 ## Configuração inicial e como usar
 
@@ -40,7 +40,7 @@ Keys são usadas para a ativação da aplicação. Confira a seguir informaçõe
 #### ⚙️ /activate - `key` 
 Ativa o bot com uma key.
 
-- `key` - A key que deve ser usada o bot seja ativado.
+- `key` - A key que deve ser usada para que o bot seja ativado.
 
 > Exemplo:
 
