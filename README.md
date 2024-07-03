@@ -1,5 +1,7 @@
 # HyperGPT
 
+![HyperGPT](hypergpt.png)
+
 **Documentação de referência para usuários do bot hyperGPT, desenvolvido com a tecnologia do ChatGPT.**
 
 Esse BOT foi criado com foco em uso da inteligência artificial para criar interatividade e diversão para seu servidor!
@@ -10,7 +12,18 @@ As seguintes funcionialidades estão disponíveis:
 - 🖼️ - *Gerar imagens com IA.*
 - 🧠 - *O limite é sua imaginação.*
 
-## Configuração inicial e como usar
+## Sumário
+
+- [Configuração inicial](#configuração-inicial)
+- [Keys](#keys)
+- [Comandos para gerenciar keys](#comandos-com-as-keys)
+- [Observações](#observações)
+- [Comandos](#comandos-principais)
+- [Como adquirir esse BOT?](#como-adquirir)
+- [Contato](#contato)
+
+
+## Configuração inicial
 
 Requisitos:
 
@@ -24,7 +37,7 @@ Se você tem todos esses requisitos, por favor siga os seguintes passos **na ord
 > Exemplo: `/activate "7Z8V-LIFO-2W5T"`
 3.  **Em caso de dúvidas, por favor leia mais informações sobre as keys na seção [abaixo](#keys).**
 4.  **Use o comando `/expires` para checar quando sua key vai expirar. Esse comando pode ser usado a qualquer momento para te deixar informado.**
-5.  **Pronto! O BOT já está configurado e pode ser usado. Confira todos os comandos disponíveis na seção [comandos](#comandos_principais).**
+5.  **Pronto! O BOT já está configurado e pode ser usado. Confira todos os comandos disponíveis na seção [comandos](#comandos-principais).**
 
 ## Keys
 
@@ -98,6 +111,10 @@ Gera uma imagem baseada no prompt usando IA.
 ![Elfa de cabelo verde na cidade.](elf.png)
 
 ---
+
+## Como adquirir
+
+Você pode adquirir este BOT oficialmente no nosso [canal oficial do Discord.](https://discord.gg/M7FURN5R88)
 
 ## Contato
 
