@@ -16,7 +16,7 @@ As seguintes funcionialidades estão disponíveis:
 
 - [Configuração inicial](#configuração-inicial)
 - [Keys](#keys)
-- [Comandos para gerenciar keys](#comandos-com-as-keys)
+  - [Comandos para gerenciar keys](#comandos-com-as-keys)
 - [Observações](#observações)
 - [Comandos](#comandos-principais)
 - [Como adquirir esse BOT?](#como-adquirir)
