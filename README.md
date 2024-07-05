@@ -116,6 +116,8 @@ Gera uma imagem baseada no prompt usando IA.
 
 Você pode adquirir este BOT oficialmente no nosso [canal oficial do Discord.](https://discord.gg/M7FURN5R88)
 
+[<img src="hyperstore.png">](https://discord.gg/M7FURN5R88)
+
 ## Contato
 
 **Esse BOT foi desenvolvido com carinho por Miguel, desenvolvedor full stack.**
