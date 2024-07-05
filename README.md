@@ -17,7 +17,6 @@ As seguintes funcionialidades estão disponíveis:
 - [Configuração inicial](#configuração-inicial)
 - [Keys](#keys)
   - [Comandos para gerenciar keys](#comandos-com-as-keys)
-- [Observações](#observações)
 - [Comandos](#comandos-principais)
 - [Como adquirir esse BOT?](#como-adquirir)
 - [Contato](#contato)
@@ -66,22 +65,6 @@ Checa a data de expiração da key.
 Esse comando não tem parâmetros.
 
 ---
-
-## Observações
-
-🚩 **ATENÇÃO!**
-
-Nesta documentação, os comandos são referenciados da seguinte forma:
-
-#### ⚙️ **/comando** - `parâmetro_1`, `parâmetro_2`, ...
-Descrição do comando.
-
-- `parâmetro_1` - Significado do parâmetro...
-- `parâmetro_2` - Significado do outro parâmetro...
-
-> Exemplo: Um exemplo de como usar o comando.
-
-`/comando "parametro_1" "parametro_2"`
 
 ## Comandos principais
 
