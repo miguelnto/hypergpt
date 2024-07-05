@@ -92,7 +92,9 @@ Converse com a IA.
 
 > Exemplo: Uma pergunta aleatória de matemática.
 
-`/chat "quanto é 720*8?"`
+`/chat "descreva de forma simples e breve a diferença entre uma jaguatirica e um gato"`
+
+![Um belo exemplo.](hypergptexample.png)
 
 ---
 
