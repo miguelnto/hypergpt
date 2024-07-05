@@ -99,7 +99,7 @@ Gera uma imagem baseada no prompt usando IA.
 
 ## Como adquirir
 
-Você pode adquirir este BOT oficialmente no nosso [canal oficial do Discord.](https://discord.gg/M7FURN5R88)
+**Você pode adquirir este BOT oficialmente no nosso [canal oficial do Discord.](https://discord.gg/M7FURN5R88)**
 
 [<img src="hyperstore.png">](https://discord.gg/M7FURN5R88)
 
