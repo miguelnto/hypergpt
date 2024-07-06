@@ -81,11 +81,13 @@ Converse com a IA.
 
 ---
 
-#### ⚙️ /imagine - `model`, `prompt`
+#### ⚙️ /imagine - `model`, `prompt`, `width`, `height`
 Gera uma imagem baseada no prompt usando IA.
 
 - `model` - Modelo para usar. Pode ser *prodia* ou *pollinations*.
 - `prompt` - Prompt que será usado para gerar a imagem.
+- `width` - Largura da imagem a ser gerada. **(SÓ FUNCIONA COM POLLINATIONS)**
+- `height` - Altura da imagem a ser gerada. **(SÓ FUNCIONA COM POLLINATIONS)**
 
 > Exemplo: Gerando uma imagem de uma elfa de cabelo verde na cidade. 
 
@@ -94,6 +96,10 @@ Gera uma imagem baseada no prompt usando IA.
 `/imagine "prodia" "green haired elf in the city"`
 
 ![Elfa de cabelo verde na cidade.](elf.png)
+
+`/imagine "pollinations" "mermaid" "1280" "720"`
+
+![Sereia.](mermaid.jpeg)
 
 ---
 
