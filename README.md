@@ -28,7 +28,7 @@ As seguintes funcionialidades estão disponíveis:
 - [Keys](#keys)
   - [Comandos para gerenciar keys](#comandos-com-as-keys)
 - [Comandos](#comandos-principais)
-- [Como adquirir esse BOT?](#como-adquirir)
+- [Como adquirir esse BOT](#como-adquirir)
 - [Contato](#contato)
 
 
@@ -115,14 +115,14 @@ Gera uma imagem baseada no prompt usando IA.
 
 ## Como adquirir
 
-**Você pode adquirir este BOT oficialmente no nosso [canal oficial do Discord.](https://discord.gg/M7FURN5R88)**
+**Você pode adquirir este BOT oficialmente no nosso [canal oficial do Discord.](https://discord.gg/M7FURN5R88) Lá você também encontra atualizações e poderá entrar em contato com o suporte.**
 
 [![produto-hyperstore](https://img.shields.io/badge/adquirir%20produto-%232B2F33.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/M7FURN5R88)
 ![suporte-e-garantia](https://img.shields.io/badge/%E2%9C%94%20garantia%20e%20%20suporte-%23107C10.svg?style=for-the-badge&logoColor=white)
 
 ## Contato
 
-**Esse BOT foi desenvolvido com carinho por Miguel, desenvolvedor full stack.**
+🚀 **Esse BOT foi desenvolvido com carinho por Miguel, desenvolvedor full stack.**
 
 Todos os links de contato estão abaixo.
 
