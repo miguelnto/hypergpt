@@ -58,6 +58,8 @@ Se você tem todos esses requisitos, por favor siga os seguintes passos **na ord
 
 ### Comandos com as keys
 
+---
+
 #### ⚙️ /activate - `key` 
 Ativa o bot com uma key.
 
