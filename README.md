@@ -1,8 +1,15 @@
+<div align="center">
+
 # HyperGPT
+
+**Documentação de referência para usuários do bot hyperGPT, desenvolvido com a tecnologia do ChatGPT.**
 
 ![HyperGPT](hypergpt.png)
 
-**Documentação de referência para usuários do bot hyperGPT, desenvolvido com a tecnologia do ChatGPT.**
+[![produto-hyperstore](https://img.shields.io/badge/produto%20hyperstore-%232B2F33.svg?style=for-the-badge&logoColor=white)][https://discord.gg/M7FURN5R88]
+
+
+</div>
 
 Esse BOT foi criado com foco em uso da inteligência artificial para criar interatividade e diversão para seu servidor!
 
