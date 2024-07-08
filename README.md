@@ -7,8 +7,8 @@
 ![HyperGPT](hypergpt.png)
 
 [![produto-hyperstore](https://img.shields.io/badge/produto%20hyperstore-%232B2F33.svg?style=for-the-badge&logoColor=white)](https://discord.gg/M7FURN5R88)
-![discord-bot](https://img.shields.io/badge/discord%20bot-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![tecnologias](https://img.shields.io/badge/tecnologia%20gpt%204.0/3.5%20e%20gemini%20pro-2F3134?style=for-the-badge&logo=openai&logoColor=white)
+![discord-bot](https://img.shields.io/badge/discord%20bot-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
 
