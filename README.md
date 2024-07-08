@@ -2,11 +2,13 @@
 
 # HyperGPT
 
-**Documentação de referência para usuários do bot hyperGPT, desenvolvido com a tecnologia do ChatGPT.**
+**Documentação de referência para usuários do BOT HyperGPT, desenvolvido com a tecnologia do ChatGPT.**
 
 ![HyperGPT](hypergpt.png)
 
 [![produto-hyperstore](https://img.shields.io/badge/produto%20hyperstore-%232B2F33.svg?style=for-the-badge&logoColor=white)](https://discord.gg/M7FURN5R88)
+[![discord-bot](https://img.shields.io/badge/discord%20bot-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]
+[![tecnologias](https://img.shields.io/badge/tecnologia%20gpt%204.0/3.5%20e%20gemini%20pro-2F3134?style=for-the-badge&logo=openai&logoColor=white)]
 
 </div>
 
@@ -115,7 +117,8 @@ Gera uma imagem baseada no prompt usando IA.
 
 **Você pode adquirir este BOT oficialmente no nosso [canal oficial do Discord.](https://discord.gg/M7FURN5R88)**
 
-[<img src="hyperstore.png">](https://discord.gg/M7FURN5R88)
+[![produto-hyperstore](https://img.shields.io/badge/adquirir%20produto-%232B2F33.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/M7FURN5R88)
+[![suporte-e-garantia][https://img.shields.io/badge/%E2%9C%94%20garantia%20e%20%20suporte-%23107C10.svg?style=for-the-badge&logoColor=white]
 
 ## Contato
 
