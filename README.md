@@ -124,7 +124,7 @@ Gera uma imagem baseada no prompt usando IA.
 
 🚀 **Esse BOT foi desenvolvido com carinho por Miguel, desenvolvedor full stack.**
 
-Todos os links de contato estão abaixo.
+Todos os links de contato estão abaixo. Vem trocar uma ideia comigo! 🖖
 
 - **Email: miguelup01@outlook.com**
 - **Servidor: [HyperStore](https://discord.gg/M7FURN5R88)**
