@@ -45,7 +45,7 @@ Se você tem todos esses requisitos, por favor siga os seguintes passos **na ord
 2.  Use o comando `/activate` junto com sua key para ativar o BOT. Se você digitou corretamente, o BOT alertará que a key foi ativada com sucesso.
 > Exemplo: `/activate "7Z8V-LIFO-2W5T"`
 3.  Use o comando `/expires` para checar quando sua key vai expirar. Esse comando pode ser usado a qualquer momento para te deixar informado.
-4. *Pronto! O BOT já está configurado e pode ser usado. Confira todos os comandos disponíveis na seção [comandos](#comandos-principais).
+4. Pronto! O BOT já está configurado e pode ser usado. Confira todos os comandos disponíveis na seção [comandos](#comandos-principais).
 5. Em caso de dúvidas, por favor leia mais informações sobre as keys na seção [abaixo](#keys).
 
 ## Keys
@@ -57,8 +57,6 @@ Se você tem todos esses requisitos, por favor siga os seguintes passos **na ord
 - Nenhum comando ou interação com o bot será possível se o BOT não estiver ativado com a key.
 
 ### Comandos com as keys
-
----
 
 #### ⚙️ /activate - `key` 
 Ativa o bot com uma key.
