@@ -2,9 +2,11 @@
 
 # HyperGPT
 
-**Documentação de referência para usuários do BOT HyperGPT, desenvolvido com a tecnologia do ChatGPT.**
+**Documentação de referência para usuários do BOT HyperGPT.**
 
 ![HyperGPT](hypergpt.png)
+
+**Desenvolvido com a tecnologia do ChatGPT.**
 
 [![produto-hyperstore](https://img.shields.io/badge/produto%20hyperstore-%232B2F33.svg?style=for-the-badge&logoColor=white)](https://discord.gg/M7FURN5R88)
 ![tecnologias](https://img.shields.io/badge/tecnologia%20gpt%204.0/3.5%20e%20gemini%20pro-2F3134?style=for-the-badge&logo=openai&logoColor=white)
@@ -16,7 +18,7 @@
 
 Esse BOT foi criado com foco em uso da inteligência artificial para criar interatividade e diversão para seu servidor!
 
-As seguintes funcionialidades estão disponíveis:
+As principais funcionalidades são:
 
 - 🤖 - *Gerar respostas em texto com IA.*
 - 🖼️ - *Gerar imagens com IA.*
@@ -28,7 +30,7 @@ As seguintes funcionialidades estão disponíveis:
 - [Keys](#keys)
   - [Comandos para gerenciar keys](#comandos-com-as-keys)
 - [Comandos](#comandos-principais)
-- [Como adquirir esse BOT?](#como-adquirir)
+- [Adquira este BOT](#como-adquirir)
 - [Contato](#contato)
 
 
