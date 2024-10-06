@@ -30,6 +30,7 @@ As principais funcionalidades são:
 - [Keys](#keys)
   - [Comandos para gerenciar keys](#comandos-com-as-keys)
 - [Comandos](#comandos-principais)
+- [Perguntas frequentes](#perguntas-frequentes)
 - [Adquira este BOT](#como-adquirir)
 - [Contato](#contato)
 
@@ -43,12 +44,13 @@ Requisitos:
 
 Se você tem todos esses requisitos, por favor siga os seguintes passos **na ordem:**
 
-1.  Convide o BOT para seu servidor usando o link de convite.
-2.  Use o comando `/activate` junto com sua key para ativar o BOT. Se você digitou corretamente, o BOT alertará que a key foi ativada com sucesso.
-> Exemplo: `/activate "7Z8V-LIFO-2W5T"`
-3.  Use o comando `/expires` para checar quando sua key vai expirar. Esse comando pode ser usado a qualquer momento para te deixar informado.
-4. Pronto! O BOT já está configurado e pode ser usado. Confira todos os comandos disponíveis na seção [comandos](#comandos-principais).
-5. Em caso de dúvidas, por favor leia mais informações sobre as keys na seção [abaixo](#keys).
+**1. Configure a key:**
+  - Convide o BOT para seu servidor usando o link de convite.
+  - Use o comando `/activate` junto com sua key para ativar o BOT. Se você digitou corretamente, o BOT alertará que a key foi ativada com sucesso.
+  > Exemplo: `/activate "7Z8V-LIFO-2W5T"`
+  -  Use o comando `/expires` para checar quando sua key vai expirar. Esse comando pode ser usado a qualquer momento para te deixar informado.
+  - Pronto! O BOT já está configurado e pode ser usado. Confira todos os comandos disponíveis na seção [comandos](#comandos-principais).
+  - Em caso de dúvidas, por favor leia mais informações sobre as keys na seção [abaixo](#keys).
 
 ## Keys
 
